@@ -1,0 +1,3 @@
+bash run_choose_satellite_gateway.sh
+
+bash run_change_VRFProveNum.sh
